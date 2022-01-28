@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy! 👋🤠
 
 - 🔭 I’m currently working on my personal Discord bot
 - 🌱 I’m currently learning all about pentesting & ethical hacking
